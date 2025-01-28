@@ -17,4 +17,4 @@ This is a simple Android application that dynamically loads and displays content
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/dynamic-content-app.git
+git clone https://github.com/rickjmcwork83/dynamic-content-app.git
